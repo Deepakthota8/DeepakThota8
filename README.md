@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hello, this is Deepak! 
+    •	🔭 Presently, I'm working on data analytics projects, learning sophisticated analytical tools, and investigating visualization strategies.
+ 
+🌱 Currently Learning:
+•	I'm now learning to use cloud-based analytics systems like Microsoft Azure and improving my data mining, visualization, and SQL skills.
 
-<!--
-**Deepakthota8/DeepakThota8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👯 Looking to Collaborate On:
+•	Projects involving dashboard development, predictive analytics, or business insights are areas where I want to collaborate. Working on projects that combine data and strategic decision-making excites me.
 
-Here are some ideas to get you started:
+ 🤔 Seeking Help With:
+•	Resources and advice for becoming an expert in R and investigating machine learning applications in practical settings.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask Me About:
+•	Anything Related to data storytelling, Tableau, Power BI, or using data to influence organizations.
+
+📫 How to Reach Me:
+•	add me on LinkedIn(www.linkedin.com/in/Deepak-thota8) I'm always interested in having deep discussions about prospects and analytics.
+
+😄 Pronouns:
+•	He/Him
+
+⚡ Fun Fact
+•	Besides math, I enjoy trying out new foods in the kitchen and learning about other cultures.
+
+Together, let's connect and discover the limitless potential of data analytics! 🚀✨
+
